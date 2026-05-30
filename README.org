@@ -4,6 +4,6 @@ a library to generate Minecraft bedrock NBT files
 
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/myonX/cl-nbt.git                   |
-| commit  | cd7c13e                                                    |
+| commit  | 93fac39                                                    |
 | systems | cl-nbt                                                    |
 |---------+------------------------------------------------------------|
